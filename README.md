@@ -37,7 +37,7 @@ This central portion of this analysis examins 2 coupon types - Bar coupons and C
 
 1. Bar coupons can be sent to all drivers, but should especially be sent to:
    
-   a. Drivers who frequent bars more than 3 times per month on average
+   a. Drivers who frequent bars more than 3 times per month on average <br/>
    b. Drivers 25 years of age and older who go to the bar more than once a month on average
 
 2. Carry out & Take away coupons have very high rates of acceptance among all drivers, so should be sent out to all drivers, especially:
