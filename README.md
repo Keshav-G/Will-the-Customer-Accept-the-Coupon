@@ -69,6 +69,6 @@ This central portion of this analysis examins 2 coupon types - Bar coupons and C
 
 **Link to Jupyter Notebook (Full Analysis and Report):**
 <br/>
-https://github.com/Keshav-G/Will-the-Customer-Accept-the-Coupon/blob/3d66fd4e84b9b5dded84774fdcef10492409ae73/Assignment%205.1_Will%20the%20Buyer%20Accept%20the%20Coupon_Keshav.ipynb
+https://github.com/Keshav-G/Will-the-Customer-Accept-the-Coupon/blob/3f5f07dfdbf887a2852f219c26e3233729e9ff79/Assignment%205.1_Will%20the%20Buyer%20Accept%20the%20Coupon_Keshav.ipynb
 
 <br/>
