@@ -42,7 +42,7 @@ This central portion of this analysis examins 2 coupon types - Bar coupons and C
 
 2. Carry out & Take away coupons have very high rates of acceptance among all drivers, so should be sent out to all drivers, especially:
 
-   a. Drivers who on average never frequent carry-out and take-away establishments
+   a. Drivers who on average never frequent carry-out and take-away establishments <br/>
    b. Drivers age 50+
 
 3. Income level is not a major consideration when sending out COTA coupons, so doesn't need to be factored into any algorithms.
