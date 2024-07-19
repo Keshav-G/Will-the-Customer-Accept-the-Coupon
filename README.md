@@ -1,7 +1,7 @@
 # Will-the-Customer-Accept-the-Coupon
 Answering if a  customer would accept a restaurant coupon delivered to their cell phone. The restaurant coupon would be delivered when they pass by said restaurant while driving. This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk.
 
-This central portion of this analysis examins 2 coupon types - Bar coupons and Carry out & Take away coupons, and at what rate / percentage various subsets of the driver population accept these coupons. A summary of the findings for each is below, and a link to the full analysis and report is provided at the end. Note: "Carry out & Take away" is one category of coupon. "Carry out & Take away" will also be abbreviated as "COTA".
+This central portion of this analysis examins 2 coupon types - Bar coupons and Carry out & Take away coupons, and at what rate / percentage various subsets of the driver population accept these coupons. A summary of the findings for each is below, along with Next Steps and Recommendations. A link to the full analysis and report is provided at the end. Note: "Carry out & Take away" is one category of coupon. "Carry out & Take away" will also be abbreviated as "COTA".
 
 
 **Bar Coupon Hypotheses / Analysis:**
@@ -29,6 +29,22 @@ This central portion of this analysis examins 2 coupon types - Bar coupons and C
 5. Drivers with kids in the car and travelling in the opposite direction of a COTA coupon's establishment are slightly less likely to accept that COTA coupon than the general population (69.7% vs. 73.8%).
 
 6. The 50+ age group accepts COTA coupons at a higher rate than the overall population (77.0% vs 73.8%).
+
+
+
+**Next Steps and Recommendations:**
+
+1. Perform analyses of acceptance rates for the remaining coupon types.
+
+2. Analyze acceptance rates based on distance from the establishment the coupon is for. Break this down by direction and whether or not the driver has an urgent destination.
+
+3. Explore if temperature and weather have any effect on coupon acceptance rates.
+
+4. Determine if time has any effect on coupon acceptance rates.
+
+5. Examine if marital status and having children affects acceptance rates, even if the spouse / kids aren't in the car.
+
+6. Does solo travel affect acceptance rates vs. having any type of passanger in the car? 
 
 
 
