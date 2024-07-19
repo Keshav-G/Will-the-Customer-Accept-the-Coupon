@@ -33,7 +33,23 @@ This central portion of this analysis examins 2 coupon types - Bar coupons and C
 <br/>
 
 
-**Next Steps and Recommendations:**
+**Actionable Recommendations from Current Analysis**
+
+1. Bar coupons can be sent to all drivers, but should especially be sent to:
+   
+   a. Drivers who frequent bars more than 3 times per month on average
+   b. Drivers 25 years of age and older who go to the bar more than once a month on average
+
+2. Carry out & Take away coupons have very high rates of acceptance among all drivers, so should be sent out to all drivers, especially:
+
+   a. Drivers who on average never frequent carry-out and take-away establishments
+   b. Drivers age 50+
+
+3. Income level is not a major consideration when sending out COTA coupons, so doesn't need to be factored into any algorithms.
+
+<br/>
+
+**Next Steps for Future Analysis**
 
 1. Perform analyses of acceptance rates for the remaining coupon types.
 
@@ -46,6 +62,7 @@ This central portion of this analysis examins 2 coupon types - Bar coupons and C
 5. Examine if marital status and having children affects acceptance rates, even if the spouse / kids aren't in the car.
 
 6. Does solo travel affect acceptance rates vs. having any type of passanger in the car? 
+
 <br/>
 
 
