@@ -47,6 +47,7 @@ This central portion of this analysis examins 2 coupon types - Bar coupons and C
 
 3. Income level is not a major consideration when sending out COTA coupons, so doesn't need to be factored into any algorithms.
 
+
 <br/>
 
 **Next Steps for Future Analysis**
