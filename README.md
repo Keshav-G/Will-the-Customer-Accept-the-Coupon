@@ -19,10 +19,15 @@ This central portion of this analysis examins 2 coupon types - Bar coupons and C
 **Carry Out & Take Away Coupon Hypotheses / Analysis:**
 
 1. Drivers will accept COTA coupons at a much higher rate overall than they will accept bar coupons (73.8% vs. 41.2%, respectively).
+  
 2. COTA coupon acceptance rate plateaus after 4 - 8 average monthly visits to COTA establishments.
+   
 3. Drivers who on a monthly average never visit COTA establishments will have the highest acceptance rate of COTA coupons.
+
 4. Drivers of all income levels have at least a 65% acceptance rate for COTA coupons.
+
 5. Drivers with kids in the car and travelling in the opposite direction of a COTA coupon's establishment are slightly less likely to accept that COTA coupon than the general population (69.7% vs. 73.8%).
+
 6. The 50+ age group accepts COTA coupons at a higher rate than the overall population (77.0% vs 73.8%).
 
 
